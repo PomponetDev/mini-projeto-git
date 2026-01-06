@@ -7,3 +7,6 @@ Projeto criado para apredner Git na prática, com intenção de evoluir.
 - Git add
 - Git commit
 - Git push
+
+## Fluxo Git
+Trabalhando com branches e merge.
